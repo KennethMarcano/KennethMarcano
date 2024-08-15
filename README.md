@@ -1,43 +1,56 @@
-<h2>🔗 Contact me!</h2>
-<a href="https://kennethmarcano.netlify.app/" alt="Potfolio">
-    <img src="https://img.shields.io/badge/Portfolio-dbd6d6">
-</a>
-<a href="mailto:kennethmarcano96@outlook.com" alt="Potfolio">
-    <img src="https://img.shields.io/badge/Email-orange">
-</a>
-<a href="https:www.linkedin.com/in/kennethmarcano" alt="Potfolio">
-    <img src="https://img.shields.io/badge/%40kennethmarcano-rgb(10%2C%20102%2C%20194)?logo=linkedin">
-</a>
+<h3 align="left">🔗 Connect with me</h3>
 
----
+###
 
-<h2>💻 Skills</h2>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-	<img src="https://img.shields.io/badge/JavaScript-ffffff?logo=javascript">
-</a>
-<a href="https://www.typescriptlang.org/">
-	<img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=ffffff">
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=ffffff">
-</a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-purple?logo=CSS3&logoColor=ffffff">
-</a>
-<a href="https://fastify.dev/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Fastify-white?logo=fastify&logoColor=black">
-</a>
-<a href="https://react.dev/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/React-122f51?logo=React&logoColor=ffffff">
-</a>
-<a href="https://expressjs.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=ffffff">
-</a>
-<a href="https://nodejs.org/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=ffffff">
-</a>
-<a href="https://pt.wikipedia.org/wiki/Linux">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black">
-</a>
+<div align="left">
+  <a href="www.linkedin.com/in/kennethmarcano" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:kennethmarcano96@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="42" height="30" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
----
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">Tech</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+###
